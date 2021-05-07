@@ -3,7 +3,7 @@ Java swing demo - Hotel automation
 # Features
 * Currency tracking
 * General room situation
-* Upcoming events (customer exit)
+* Upcoming events (i.e customer exit)
 * Fast note
 # Overview
 ![swingDemoScreenOne](https://user-images.githubusercontent.com/63965272/117370367-f57c6b80-aece-11eb-902f-e73fa25ed2d3.png)
