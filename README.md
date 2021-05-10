@@ -17,11 +17,11 @@ Java swing demo - Hotel automation
 * Renovation
 # Adding customers / Customer exit
 ![swingDemoScreenTwoSide](https://user-images.githubusercontent.com/63965272/117370504-26f53700-aecf-11eb-8188-60160a41015a.png)
-### Empty room
+### Empty room action
 * Customer add
-### Full room
+### Full room action
 * Customer exit
-### Another room
+### Another room action
 * No defined action, action can be chosen
 # Customer information
 ![swingDemoScreenThree](https://user-images.githubusercontent.com/63965272/117370509-29579100-aecf-11eb-833f-6c43dc7cc0d7.png)
